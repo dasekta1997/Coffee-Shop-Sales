@@ -28,13 +28,13 @@ This Power BI report analyzes the sales performance of a fictional coffee shop c
 
 ## 📌 Data Fields Used
 
-- `transaction_id`
-- `transaction_date`, `transaction_time`
-- `transaction_qty`
-- `store_location`
-- `unit_price`
-- `product_category`, `product_type`
-- Derived columns: `Total Price per Customer`, `Day of Week`, `Hour`, `Month`, `Year`
+- `TXN ID`
+- `TXN DATE`, `TXN TIME`
+- `TXN QTY`
+- `Store Location`
+- `Unit Price`
+- `Product Category`, `Product Type`
+- Derived columns: `Total Rev per TXN`, `Days of Week(Number)`, `Hour`, `Month`, `Year`
 
 ---
 
@@ -48,8 +48,8 @@ This Power BI report analyzes the sales performance of a fictional coffee shop c
 
 ## 📷 Dashboard Preview
 
-<img width="577" alt="{DDAB0E9D-B53D-4D60-94DF-E07EBBEB5755}" src="https://github.com/user-attachments/assets/7ccb1af8-b7d6-4ae4-8146-fe843cc6e22d" />
 <img width="576" alt="{A21CCA42-56C3-43C6-9270-CAF2C52A2BA0}" src="https://github.com/user-attachments/assets/d5007730-bf8f-4dcb-b205-6e959f4366c7" />
+<img width="577" alt="{06722E43-F97F-4D03-B24F-92B59CEA8AAC}" src="https://github.com/user-attachments/assets/111a246f-1e26-4a3b-9cc4-6541136f9ce2" />
 
 
 ---
